@@ -1,1 +1,1 @@
-# SpectraFormer
+# FastSpectralNet
